@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SlugRoute</string>
+    <string name="bus_data">BusData</string>
+    <string name="bus_data_string">BusDataString</string>
 </resources>
